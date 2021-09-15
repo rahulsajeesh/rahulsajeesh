@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rahulsajeesh
 - 👀 I’m interested in expanding my knowledge of software and hardware
-- 🌱 I’m currently learning computering engineering at Drexel University
+- 🌱 I’m currently learning computer engineering at Drexel University
 - 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me rahulsajeesh2001@gmail.com
 
